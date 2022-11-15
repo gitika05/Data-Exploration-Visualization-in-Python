@@ -1,1 +1,1 @@
-# DEVP
+# Data Exploration & Visualization in Python
